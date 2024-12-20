@@ -1,7 +1,6 @@
-
 #  Модуль opencart2-exchange1c от автора KirilLoveVE адаптирован мной для OPENCART 3.x
    
- Источник :  https://github.com/KirilLoveVE    
+Источник :  https://github.com/KirilLoveVE    
 
 Версия 1.6.4.9 (неофициальная)
 
